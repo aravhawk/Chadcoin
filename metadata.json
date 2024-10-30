@@ -1,6 +1,6 @@
 {
   "name": "NeuralBytes Coin",
   "symbol": "NBCN",
-  "description": "Representing NeuralBytes (neuralbytes.net) on the Solana blockchain.",
+  "description": "Representing NeuralBytes on the Solana blockchain - https://neuralbytes.net",
   "image": "https://raw.githubusercontent.com/aravhawk/NeuralBytes-Coin/main/logo.png"
 }
